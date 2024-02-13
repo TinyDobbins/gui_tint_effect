@@ -1,5 +1,5 @@
 name: "sprite"
-tags: "tile"
+tags: "gui"
 vertex_program: "/builtins/materials/sprite.vp"
 fragment_program: "/materials/color_fill.fp"
 vertex_space: VERTEX_SPACE_WORLD
